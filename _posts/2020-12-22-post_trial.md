@@ -1,11 +1,11 @@
-# This is the title
+# Post 1
 
 Here's the table of contents:
 
 1. TOC
 {:toc}
 
-## Basic setup
+## Basic setup (for famatting and stuff)
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -15,7 +15,7 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 The first line of the file should start with a single hash character, then a space, then your title. This is how you create a "*level 1 heading*" in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line `## File names` above.
 
-## Basic formatting
+## Basic formatting (can be used as an template)
 
 You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
 
